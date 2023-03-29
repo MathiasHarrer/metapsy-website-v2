@@ -1,46 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>N Bauereiss | Protect Lab</title>
-    <link>/author/n-bauereiss/</link>
-      <atom:link href="/author/n-bauereiss/index.xml" rel="self" type="application/rss+xml" />
-    <description>N Bauereiss</description>
+    <title>N Bauereiß | Protect Lab</title>
+    <link>/author/n-bauerei%C3%9F/</link>
+      <atom:link href="/author/n-bauerei%C3%9F/index.xml" rel="self" type="application/rss+xml" />
+    <description>N Bauereiß</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2023</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo.svg</url>
-      <title>N Bauereiss</title>
-      <link>/author/n-bauereiss/</link>
+      <title>N Bauereiß</title>
+      <link>/author/n-bauerei%C3%9F/</link>
     </image>
     
     <item>
-      <title>Clinical and cost-effectiveness of PSYCHOnlineTHERAPY- study protocol of a multicenter blended outpatient psychotherapy cluster randomized controlled trial for patients with </title>
-      <link>/publication/clinical-and-cost-effectiveness-of-psychonlinetherapy-study-protocol-of-a-multicenter-blended-outpatient-psychotherapy-cluster-randomized-controlled-trial-for-patients-with-/</link>
+      <title>Lessons learned from an attempted randomized-controlled feasibility trial on “WIDeCAD”-An internet-based depression treatment for people living with coronary artery disease (CAD)</title>
+      <link>/publication/lessons-learned-from-an-attempted-randomized-controlled-feasibility-trial-on-widecad-an-internet-based-depression-treatment-for-people-living-with-coronary-artery-disease-cad-/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/clinical-and-cost-effectiveness-of-psychonlinetherapy-study-protocol-of-a-multicenter-blended-outpatient-psychotherapy-cluster-randomized-controlled-trial-for-patients-with-/</guid>
+      <guid>/publication/lessons-learned-from-an-attempted-randomized-controlled-feasibility-trial-on-widecad-an-internet-based-depression-treatment-for-people-living-with-coronary-artery-disease-cad-/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Protocol- Study protocol of a randomised controlled trial on SISU  a software agent providing a brief self-help intervention for adults with low psychological well-being</title>
-      <link>/publication/protocol-study-protocol-of-a-randomised-controlled-trial-on-sisu-a-software-agent-providing-a-brief-self-help-intervention-for-adults-with-low-psychological-well-being/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/protocol-study-protocol-of-a-randomised-controlled-trial-on-sisu-a-software-agent-providing-a-brief-self-help-intervention-for-adults-with-low-psychological-well-being/</guid>
+      <title>RANDOMIZED CONTROLLED FEASIBILITY TRIALS OF GUIDED PSYCHOLOGICAL INTERNET-INTERVENTIONS FOR PEOPLE LIVING WITH CHRONIC SOMATIC DISEASE</title>
+      <link>/publication/randomized-controlled-feasibility-trials-of-guided-psychological-internet-interventions-for-people-living-with-chronic-somatic-disease/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/randomized-controlled-feasibility-trials-of-guided-psychological-internet-interventions-for-people-living-with-chronic-somatic-disease/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Study protocol of a randomised controlled trial on SISU  a software agent providing a brief self-help intervention for adults with low psychological well-being</title>
-      <link>/publication/study-protocol-of-a-randomised-controlled-trial-on-sisu-a-software-agent-providing-a-brief-self-help-intervention-for-adults-with-low-psychological-well-being/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/study-protocol-of-a-randomised-controlled-trial-on-sisu-a-software-agent-providing-a-brief-self-help-intervention-for-adults-with-low-psychological-well-being/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internet-And Mobile-based Interventions for Adult Patients with Cancer-Results of Two Randomized Controlled Feasibility Trials</title>
-      <link>/publication/internet-and-mobile-based-interventions-for-adult-patients-with-cancer-results-of-two-randomized-controlled-feasibility-trials/</link>
+      <title>Internet-based interventions in chronic somatic disease</title>
+      <link>/publication/internet-based-interventions-in-chronic-somatic-disease/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/internet-and-mobile-based-interventions-for-adult-patients-with-cancer-results-of-two-randomized-controlled-feasibility-trials/</guid>
+      <guid>/publication/internet-based-interventions-in-chronic-somatic-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychologische E-Health Interventionen für Menschen mit chronischen Erkrankungen</title>
+      <link>/publication/psychologische-e-health-interventionen-fur-menschen-mit-chronischen-erkrankungen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/psychologische-e-health-interventionen-fur-menschen-mit-chronischen-erkrankungen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Übersichtsarbeit- Internetbasierte Interventionen bei chronischen körperlichen Erkrankungen</title>
+      <link>/publication/ubersichtsarbeit-internetbasierte-interventionen-bei-chronischen-korperlichen-erkrankungen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ubersichtsarbeit-internetbasierte-interventionen-bei-chronischen-korperlichen-erkrankungen/</guid>
       <description></description>
     </item>
     

@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>L Boss | Protect Lab</title>
-    <link>/author/l-boss/</link>
-      <atom:link href="/author/l-boss/index.xml" rel="self" type="application/rss+xml" />
-    <description>L Boss</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2023</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <title>L Boß | Protect Lab</title>
+    <link>/author/l-bo%C3%9F/</link>
+      <atom:link href="/author/l-bo%C3%9F/index.xml" rel="self" type="application/rss+xml" />
+    <description>L Boß</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2023</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo.svg</url>
-      <title>L Boss</title>
-      <link>/author/l-boss/</link>
+      <title>L Boß</title>
+      <link>/author/l-bo%C3%9F/</link>
     </image>
     
     <item>
-      <title>Efficacy of an internet-based self-help intervention to reduce co-occurring alcohol misuse and depression symptoms in adults- study protocol of a three-arm randomised </title>
-      <link>/publication/efficacy-of-an-internet-based-self-help-intervention-to-reduce-co-occurring-alcohol-misuse-and-depression-symptoms-in-adults-study-protocol-of-a-three-arm-randomised-/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/efficacy-of-an-internet-based-self-help-intervention-to-reduce-co-occurring-alcohol-misuse-and-depression-symptoms-in-adults-study-protocol-of-a-three-arm-randomised-/</guid>
+      <title>Reducing problematic alcohol use in employees- economic evaluation of guided and unguided web‐based interventions alongside a three‐arm randomized controlled trial</title>
+      <link>/publication/reducing-problematic-alcohol-use-in-employees-economic-evaluation-of-guided-and-unguided-web-based-interventions-alongside-a-three-arm-randomized-controlled-trial/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/reducing-problematic-alcohol-use-in-employees-economic-evaluation-of-guided-and-unguided-web-based-interventions-alongside-a-three-arm-randomized-controlled-trial/</guid>
       <description></description>
     </item>
     
-  </channel>
-</rss>
-<title>A three-armed randomised controlled trial investigating the comparative impact of guidance on the efficacy of a web-based stress management intervention and health impairing </title>
+    <item>
+      <title>A three-armed randomised controlled trial investigating the comparative impact of guidance on the efficacy of a web-based stress management intervention and health impairing </title>
       <link>/publication/a-three-armed-randomised-controlled-trial-investigating-the-comparative-impact-of-guidance-on-the-efficacy-of-a-web-based-stress-management-intervention-and-health-impairing-/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/a-three-armed-randomised-controlled-trial-investigating-the-comparative-impact-of-guidance-on-the-efficacy-of-a-web-based-stress-management-intervention-and-health-impairing-/</guid>
