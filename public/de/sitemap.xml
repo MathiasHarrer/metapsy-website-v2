@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/workshop/rct-evaluation-in-r/analysieren-verstehen/rubin-regeln/</loc>
-    <lastmod>2021-11-04T23:24:28+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/kernmerkmale/</loc>
-    <lastmod>2021-11-04T23:24:28+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/r-entdecken/r-rstudio/</loc>
-    <lastmod>2021-11-08T19:32:02+01:00</lastmod>
-  </url><url>
     <loc>/author/prof.-dr.-david-daniel-ebert/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -36,18 +27,6 @@
                 hreflang="de"
                 href="/author/prof.-dr.-david-daniel-ebert/"
                 />
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/vorbereitung/</loc>
-    <lastmod>2021-11-09T12:14:46+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/analysieren-verstehen/functional-programming/</loc>
-    <lastmod>2021-11-04T23:24:28+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/kausale-inferenz/</loc>
-    <lastmod>2021-11-09T21:50:24+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/r-entdecken/packages/</loc>
-    <lastmod>2021-11-11T11:30:22+01:00</lastmod>
   </url><url>
     <loc>/author/prof.-dr.-claudia-buntrock/</loc>
     <lastmod>2022-09-07T11:57:25+02:00</lastmod>
@@ -62,18 +41,6 @@
                 href="/author/prof.-dr.-claudia-buntrock/"
                 />
   </url><url>
-    <loc>/workshop/rct-evaluation-in-r/programm/</loc>
-    <lastmod>2021-11-08T19:32:02+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/analysieren-verstehen/primaere-wirksamkeitsanalyse/</loc>
-    <lastmod>2021-11-04T23:24:28+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/hypothesen/</loc>
-    <lastmod>2021-11-04T23:24:28+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/r-entdecken/wd-import/</loc>
-    <lastmod>2021-11-08T22:29:16+01:00</lastmod>
-  </url><url>
     <loc>/author/dr.-anna-carlotta-zarski/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -86,18 +53,6 @@
                 hreflang="de"
                 href="/author/dr.-anna-carlotta-zarski/"
                 />
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/r-entdecken/</loc>
-    <lastmod>2021-11-08T19:32:02+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/datenvorbereitung/</loc>
-    <lastmod>2021-11-09T15:51:00+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/</loc>
-    <lastmod>2021-11-08T19:32:02+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/r-entdecken/funktionen/</loc>
-    <lastmod>2021-11-08T22:29:16+01:00</lastmod>
   </url><url>
     <loc>/author/prof.-dr.-johannes-a.c.-laferton/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
@@ -112,56 +67,11 @@
                 href="/author/prof.-dr.-johannes-a.c.-laferton/"
                 />
   </url><url>
-    <loc>/workshop/rct-evaluation-in-r/analysieren-verstehen/</loc>
-    <lastmod>2021-11-08T19:32:02+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/descriptives-dropout/</loc>
-    <lastmod>2021-11-09T15:51:00+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/r-entdecken/objekte/</loc>
-    <lastmod>2021-11-08T22:29:16+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/analysieren-verstehen/reliable-veranderung/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/analysieren-verstehen/glm/</loc>
-    <lastmod>2021-11-04T23:24:28+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/r-entdecken/operatoren/</loc>
-    <lastmod>2021-11-08T22:29:16+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/analysieren-verstehen/visualisierung/</loc>
-    <lastmod>2021-11-09T21:50:24+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/analysieren-verstehen/multiples-testen/</loc>
-    <lastmod>2021-11-04T23:24:28+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/r-entdecken/slicing/</loc>
-    <lastmod>2021-11-09T12:14:46+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/analysieren-verstehen/effektstaerken/</loc>
-    <lastmod>2021-11-04T23:24:28+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/analysieren-verstehen/reporting-reproduzierbarkeit/</loc>
-    <lastmod>2021-11-05T15:09:15+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/missing-data/</loc>
-    <lastmod>2021-11-08T19:32:02+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/multiple-imputation/</loc>
-    <lastmod>2021-11-11T11:30:22+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/material/</loc>
-    <lastmod>2021-11-09T18:03:20+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/literatur/</loc>
-    <lastmod>2021-11-13T23:08:13+01:00</lastmod>
-  </url><url>
     <loc>/talk/example/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2023-03-26T23:27:45+02:00</lastmod>
+    <lastmod>2023-04-01T17:15:54+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -248,7 +158,7 @@
                 />
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2023-03-26T23:27:45+02:00</lastmod>
+    <lastmod>2023-03-29T10:56:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -261,7 +171,7 @@
                 />
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2023-03-26T23:27:45+02:00</lastmod>
+    <lastmod>2023-03-29T10:56:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -274,7 +184,7 @@
                 />
   </url><url>
     <loc>/author/c.-yves-plessen/</loc>
-    <lastmod>2023-03-21T22:35:46+01:00</lastmod>
+    <lastmod>2023-03-29T10:56:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -287,7 +197,7 @@
                 />
   </url><url>
     <loc>/talk/controlling-for-publication-bias-challenges-future-directions/</loc>
-    <lastmod>2023-03-21T22:35:46+01:00</lastmod>
+    <lastmod>2023-03-29T10:56:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -300,7 +210,7 @@
                 />
   </url><url>
     <loc>/author/frantisek-bartos/</loc>
-    <lastmod>2023-03-21T22:35:46+01:00</lastmod>
+    <lastmod>2023-03-29T10:56:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -313,7 +223,7 @@
                 />
   </url><url>
     <loc>/author/matthew-page/</loc>
-    <lastmod>2023-03-21T22:35:46+01:00</lastmod>
+    <lastmod>2023-03-29T10:56:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -326,7 +236,7 @@
                 />
   </url><url>
     <loc>/author/maya-mathur/</loc>
-    <lastmod>2023-03-21T22:35:46+01:00</lastmod>
+    <lastmod>2023-03-29T10:56:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -339,7 +249,7 @@
                 />
   </url><url>
     <loc>/tag/meta-analysis/</loc>
-    <lastmod>2023-03-21T22:35:46+01:00</lastmod>
+    <lastmod>2023-03-29T10:56:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -352,7 +262,7 @@
                 />
   </url><url>
     <loc>/tag/r/</loc>
-    <lastmod>2023-03-21T22:35:46+01:00</lastmod>
+    <lastmod>2023-03-29T10:56:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -365,7 +275,7 @@
                 />
   </url><url>
     <loc>/author/robbie-van-aert/</loc>
-    <lastmod>2023-03-21T22:35:46+01:00</lastmod>
+    <lastmod>2023-03-29T10:56:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -378,7 +288,7 @@
                 />
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2023-03-21T22:35:46+01:00</lastmod>
+    <lastmod>2023-03-29T10:56:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -391,7 +301,7 @@
                 />
   </url><url>
     <loc>/author/wolfgang-viechtbauer/</loc>
-    <lastmod>2023-03-21T22:35:46+01:00</lastmod>
+    <lastmod>2023-03-29T10:56:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1832,9 +1742,6 @@
                 hreflang="de"
                 href="/project/star/"
                 />
-  </url><url>
-    <loc>/workshop/</loc>
-    <lastmod>2021-11-13T23:08:13+01:00</lastmod>
   </url><url>
     <loc>/author/a-diaz-garcia/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
@@ -13035,7 +12942,7 @@
                 />
   </url><url>
     <loc>/workshop/rct-evaluation-in-r/</loc>
-    <lastmod>2021-11-08T19:32:02+01:00</lastmod>
+    <lastmod>2023-04-01T17:15:54+02:00</lastmod>
   </url><url>
     <loc>/author/fanny-kahlke-med-mph/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
@@ -13542,6 +13449,9 @@
                 hreflang="de"
                 href="/event/"
                 />
+  </url><url>
+    <loc>/workshop/</loc>
+    <lastmod>2023-04-01T17:15:54+02:00</lastmod>
   </url><url>
     <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <xhtml:link

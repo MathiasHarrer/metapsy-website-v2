@@ -5,7 +5,7 @@
     <link>/author/robbie-van-aert/</link>
       <atom:link href="/author/robbie-van-aert/index.xml" rel="self" type="application/rss+xml" />
     <description>Robbie van Aert</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2023</copyright><lastBuildDate>Mon, 20 Mar 2023 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2024</copyright><lastBuildDate>Mon, 20 Mar 2023 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo.svg</url>
       <title>Robbie van Aert</title>
@@ -23,7 +23,8 @@ b {
   font-weight: bold;
 }
 &lt;/style&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/HrQe_dEVyAM&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;800&#34; height=&#34;450&#34; src=&#34;https://www.youtube.com/embed/HrQe_dEVyAM&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
 &lt;h3&gt;Interview with &lt;a href=&#34;https://www.mayamathur.com/&#34; target=&#34;_blank&#34;&gt;Maya Mathur&lt;/a&gt; (Stanford University)&lt;/h3&gt;
 &lt;hr&gt;
 &lt;style&gt;
